@@ -1,0 +1,16 @@
+{
+  "name": "QrGenerator",
+  "version": "1.0.0",
+  "description": "Generador de códigos QR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Iván Bacallado Trujillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2",
+    "qr-image": "^3.1.0"
+  }
+}
