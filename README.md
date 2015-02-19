@@ -10,16 +10,13 @@ Generador de códigos QR en node.js. Se implementan dos variantes:
 1.0.0
 
 ### Dependencias
-
 * qr-image :  ^3.1.0
 * express: ^4.11.2 (Solo para publicar en web)
 
-### Installation
-
+### Instalación
 Necesitas tener instalado node.js. Puedes descargarlo desde www.nodejs.org.
 
 Una vez instalado, clona el repositorio a una carpeta:
-
 
 ```sh
 $ git clone https://Ibtrujillo@bitbucket.org/quewy/qr-generator.git Qr-Generator
