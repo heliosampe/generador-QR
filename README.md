@@ -19,7 +19,7 @@ Necesitas tener instalado node.js. Puedes descargarlo desde www.nodejs.org.
 Una vez instalado, clona el repositorio a una carpeta:
 
 ```sh
-$ git clone https://Ibtrujillo@bitbucket.org/quewy/qr-generator.git Qr-Generator
+$ git clone https://>Tu cuenta <@bitbucket.org/quewy/qr-generator.git Qr-Generator
 $ cd Qr-Generator
 $ npm install
 ```
