@@ -19,12 +19,12 @@ Necesitas tener instalado node.js. Puedes descargarlo desde www.nodejs.org.
 Una vez instalado, clona el repositorio a una carpeta:
 
 ```sh
-$ git clone https://>Tu cuenta <@bitbucket.org/quewy/qr-generator.git Qr-Generator
+$ git clone https://github.com/ivanbtrujillo/QRGenerator-NodeJS Qr-Generator
 $ cd Qr-Generator
 $ npm install
 ```
 ### Cambio entre versiones
-En el fichero index.js vienen las dos versiones. Comentar una u otra para intercambiar entre salida a fichero o publicar en localhost:3000.
+En el fichero index.js vienen las dos versiones. Cuando se ejecuta el servidor se genera un QR y se vuelga a un fichero .svg en la carpeta codigos. Posteriormente genera otro QR distinto y lo muestra en el browser en el browser.
 
 ### Salida a fichero
 Genera un fichero .svg en la carpeta códigos. 
